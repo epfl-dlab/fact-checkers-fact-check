@@ -6,7 +6,8 @@ This repository contains the data and code of the paper "Can online attention si
 @inproceedings{ribeiro2022factcheck,
   title={Can online attention signals help fact-checkers fact-check?},
   author={Ribeiro, Manoel Horta and West, Robert},
-  booktitle={Workshop Proceedings of the 16th International AAAI Conference on Web and Social Media (MEDIATE)},
+  booktitle={Workshop Proceedings of the 16th International AAAI 
+             Conference on Web and Social Media (MEDIATE)},
   year={2022}
 ~~~
 
@@ -25,5 +26,5 @@ This repository contains the data and code of the paper "Can online attention si
 - `original_database.csv` — original database provided by IFCN.
 
 - `claim-clusters/` — claim cluster extracted from original database.
-- 
+
 - `kg_ids.json` — mapping between claim clusters and knowledge graph ids.
